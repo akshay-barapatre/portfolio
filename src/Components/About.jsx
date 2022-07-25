@@ -9,7 +9,7 @@ export default function About() {
         <Cont>
           <Left>
             <Para>Hi I'm</Para>
-            <Header>Sudhir P Chavhan</Header>
+            <Header>Sudhir Chavhan</Header>
             <Para>
               Full Stack Web Developer, Open Source Enthusiast 🔥. <br/>
               Always learning.
