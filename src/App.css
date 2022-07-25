@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+}
+@import url("https://fonts.googleapis.com/css?family=Barlow:800&display=swap");
+.projecth3{
+  width: 65%;
+  align-items: center;
+  text-align: center;
+  margin:auto;
+  margin-top: 5%;
+}
