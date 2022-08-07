@@ -7,68 +7,83 @@ export default function Projects() {
   const projectData = [
   
     {
+      
       id: "1",
+      name: " Mern-Quiz-App",
+      img: "https://user-images.githubusercontent.com/97445870/183285768-23eaf48c-a1a6-435a-a080-dcaa0f94bb52.png",
+      gh: "https://github.com/SudhirPC/MERN-Quiz-App",
+      url: "https://mern-quiz-app-by-sudhir.vercel.app/",
+      desc: " The MERN-Quiz-App is a place where ",
+      stack: " HTML, CSS, JavaScript, MongoDB, React, Redux and Tailwind CSS",
+      Feature:
+        " Sign-in, Sign-Up, User Authentication, Users can come and attempt the quiz and get the result. Also, Admin has access to add the Quiz on a front page and delete the user functionality.",
+      Responsibility:
+        "  It was an Individual Project completed in Two-Weeks with Backend and Frontend",
+    },
+    {
+      
+      id: "2",
       name: " Gear-Best Clone",
       img: "https://user-images.githubusercontent.com/97445870/180730138-22c7b6fd-6d34-4d54-8928-11e68f82718a.png",
       gh: "https://github.com/SudhirPC/gear-best-clone",
       url: "https://gearbestsudhir.netlify.app/",
       desc: " Gear Best is an Online Shopping for the best cell phones, electronic gadgets, toys, sporting goods, home product.",
-      stack: " HTML,CSS,JavaScript,MongoDB,React,Redux and Tailwind CSS",
+      stack: " HTML, CSS, JavaScript, MongoDB, React, Redux and Tailwind CSS",
       Feature:
         " Sign-in, Sign-Up, User Authentication,Filtering and Sorting,Add To Cart Functionality.",
       Responsibility:
         "  It was an Individual Project completed in Four-Day with Backend and Frontend",
     },
     {
-      id: "2",
+      id: "3",
       name: " Fab-Bag Clone",
       img: "https://user-images.githubusercontent.com/97445870/168086084-9444da60-3cfa-4fab-b763-4e9d62d9cef3.png",
       gh: "https://github.com/khageswar9/FabBag_clone",
       url: "https://dashing-fox-837d55.netlify.app/",
       desc: " FabBag is a India's largest beauty subscription service also Provides Products like Bags etc",
-      stack: " HTML,CSS,JavaScript,MongoDB,React,Redux",
+      stack: " HTML, CSS, JavaScript, MongoDB, React, Redux ",
       Feature:
         " Sign-in,Sign-Up,User Authentication,Filtering and Sorting,Add To Cart Functionality ",
       Responsibility:
         " Create Navbar,Footer,Sidebars and all Dropdowns and also merge all the Components with Navbar ",
     },
     {
-      id: "3",
+      id: "4",
       name: " Intern Theory Clone",
       img: "https://user-images.githubusercontent.com/97519781/165341374-0b51ce00-57c2-4507-816a-c0725d646cce.png",
       gh: "https://github.com/akashbind12/intern_theory_clone_project",
       url: "https://intern-theory-clone-project.vercel.app/",
       desc: " Provider of an online internship portal intended to offer Internships courses and connect students with companies looking for interns.",
-      stack: " HTML, CSS, JavaScript , MongoDB",
+      stack: " HTML, CSS, JavaScript, MongoDB",
       Feature:
         " Sign-in , Sign-Up, User Authentication , Filtering and Sorting, Add To Cart Functionality ",
       Responsibility:
         " Create  Courses Page,Add To Cart Functionality and Payment Page",
     },
      {
-       id: "4",
+       id: "5",
        name: " Calculator-React",
        img: "https://user-images.githubusercontent.com/97445870/167365385-a246950b-d6d4-4e23-b0d0-2a4b671ef41b.png",
        gh: "https://github.com/SudhirPC/Calculator-React",
        url: "https://calculator-react-lemon.vercel.app/",
        desc: " Digital Calculator made by using React ",
-       stack: " HTML,CSS,JavaScript and React",
+       stack: " HTML, CSS, JavaScript and React",
        Feature:" Mathematical Calculations ",
      Responsibility:"  It was an Individual Project completed in One-Day",
    },
     {
-      id: "5",
+      id: "6",
       name: " Weather App",
       img: "https://user-images.githubusercontent.com/97445870/165687283-bb1157b5-4ea6-4900-8cbd-ab218170eef6.png",
       gh: "https://github.com/SudhirPC/Weather_Forecast",
       url: "https://weather-forecast-sudhirchavhan100-gmailcom.vercel.app/",
       desc: " Weather App Features- Weekly Weather Forecast Reports according to the city along with a Map. Tech Stack Used- JavaScript ,HTML ,CSS ",
-      stack: " HTML,CSS,JavaScript",
+      stack: " HTML, CSS, JavaScript",
       Feature: " User can see Weather Forecast Information according to entered Place",
       Responsibility: " It was an Individual Project completed in One-Day",
     },
     {
-      id: "6",
+      id: "7",
       name: " Food App",
       img: "https://user-images.githubusercontent.com/97445870/165927305-fa66172c-854c-4df7-a2cc-63ad8b8d6de3.png",
       gh: "https://github.com/SudhirPC/Food_Application",
@@ -79,7 +94,7 @@ export default function Projects() {
       Responsibility: " It was an Individual Project completed in One-Day",
     },
     {
-      id: "7",
+      id: "8",
       name: " You Tube Clone",
       img: "https://user-images.githubusercontent.com/97445870/165686506-be41004f-94f4-4c40-a15c-d211bd8f18e3.png",
       gh: "https://github.com/SudhirPC/You_tube_clone",
