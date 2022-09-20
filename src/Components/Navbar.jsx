@@ -17,7 +17,7 @@ export default function Navbar() {
                     <Link to='skills' smooth={true} duration={1500}><Projects> Skills </Projects></Link>
                     <Link to='projects' smooth={true} duration={1500}><Projects> Projects </Projects></Link>
                     <Link to='footer' smooth={true} duration={1500}><Contact> Contact </Contact></Link>
-                    <Resume> <a href="https://drive.google.com/file/d/1aK8EV_iVersX1AUoT9OmX052qU8fZ5_A/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a></Resume>
+                    <Resume> <a href="https://drive.google.com/drive/folders/1knPnUEk2P5FUzEcriWdMzk2r-INBkSve?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a></Resume>
                 </Menu>
             </NavCont>
         </Nav>
