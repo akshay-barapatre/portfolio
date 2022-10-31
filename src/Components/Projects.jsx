@@ -12,7 +12,7 @@ export default function Projects() {
       name: " Mern-Quiz-App",
       img: "https://user-images.githubusercontent.com/97445870/183285768-23eaf48c-a1a6-435a-a080-dcaa0f94bb52.png",
       gh: "https://github.com/SudhirPC/MERN-Quiz-App",
-      url: "https://mern-quiz-app-by-sudhir.vercel.app/",
+      url: "https://mern-quiz-app-by-sudhirpchavhan.vercel.app/",
       desc: " The MERN-Quiz-App is a place where ",
       stack: " HTML, CSS, JavaScript, MongoDB, React, Redux and Tailwind CSS",
       Feature:
